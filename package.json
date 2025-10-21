@@ -1,0 +1,14 @@
+{
+  "name": "qawolf-hn-sort-check",
+  "version": "1.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js --show --csv --junit --trace",
+    "ci": "node index.js --junit --csv --trace"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

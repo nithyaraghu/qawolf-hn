@@ -1,0 +1,17 @@
+# QA Wolf Take-Home — Hacker News /newest Sort Check
+
+Validates that **exactly** the first 100 posts on [Hacker News → /newest](https://news.ycombinator.com/newest) are sorted **newest → oldest** using **JavaScript + Playwright (Chromium)**.
+
+---
+
+## Quick Start
+
+```bash
+# install deps
+npm i
+# install Playwright browsers (one-time)
+npx playwright install
+# run
+npm start
+# or
+node index.js

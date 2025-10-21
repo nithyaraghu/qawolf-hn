@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hn-newest-sort" tests="1" failures="0">
+  <testcase classname="hn" name="first-100-sorted">
+    
+  </testcase>
+</testsuite>

@@ -1,0 +1,101 @@
+index,iso_time,title,url,id
+0,"2025-10-14T20:42:48.000Z","An angry rant about locales and filenames in libarchive",https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe,45584577
+1,"2025-10-14T20:40:48.000Z","Nextcloud withdraws European Commission OneDrive complaint",https://www.theregister.com/2025/10/09/nextcloud_withdraws_ec_onedrive_bundling/,45584550
+2,"2025-10-14T20:39:48.000Z","Field Guide to TSL and WebGPU",https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/,45584541
+3,"2025-10-14T20:38:48.000Z","Do You Have to Stop Using Windows 10?",https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/,45584534
+4,"2025-10-14T20:36:48.000Z","I Managed to Grow Countable Yeast Colonies",https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast,45584500
+5,"2025-10-14T20:36:48.000Z","Surveillance Secrets",https://www.lighthousereports.com/investigation/surveillance-secrets/,45584498
+6,"2025-10-14T20:35:48.000Z","The .NET Security Group",https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/,45584485
+7,"2025-10-14T20:34:48.000Z","Key Analyst Says U.S. Is 'Going Broke' Under Trump",https://www.thedailybeast.com/key-jpmorgan-analyst-david-kelly-says-us-is-going-broke-under-trump/,45584473
+8,"2025-10-14T20:33:48.000Z","Why Is SQLite Coded in C and not Rust",https://www.sqlite.org/whyc.html,45584464
+9,"2025-10-14T20:31:48.000Z","Show HN: Pathwave.io – MCP and mobile app to manually approve AI actions",https://web.pathwave.io/docs,45584454
+10,"2025-10-14T20:30:48.000Z","Certain processed foods and beverages linked to declines in brain health",https://news.vt.edu/articles/2025/09/clahs-food-cognition-research.html,45584440
+11,"2025-10-14T20:29:48.000Z","Echoes of Humanity: A Glimpse of a Hopeful Tomorrow",https://www.denoise.digital/echoes-of-humanity-a-glimpse-of-a-hopeful-tomorrow/,45584420
+12,"2025-10-14T20:29:48.000Z","U.S. Sanctions Cambodian Conglomerate, Citing Role in 'Pig-Butchering' Scams",https://www.wsj.com/business/u-s-sanctions-cambodian-conglomerate-citing-role-in-pig-butchering-scams-0cf2e0ff,45584418
+13,"2025-10-14T20:27:48.000Z","Tesla FSD will drive straight into the path of a oncoming train",https://bsky.app/profile/realdanodowd.bsky.social/post/3lz6hi4isik2y,45584397
+14,"2025-10-14T20:25:48.000Z","Show HN: Nofan Framework 16 Fan Controller",https://github.com/laktak/nofan,45584368
+15,"2025-10-14T20:24:48.000Z","How everyday tech is training us to accept constant surveillance Seattle",https://www.axios.com/local/seattle/2025/10/14/surveillance-normalization-privacy-law-doorbell-camera-fitness-tracking,45584364
+16,"2025-10-14T20:23:48.000Z","'I love Hitler': Leaked messages expose Young Republicans' racist chat",https://www.politico.com/news/2025/10/14/private-chat-among-young-gop-club-members-00592146,45584356
+17,"2025-10-14T20:23:48.000Z","What Declining Cardboard Box Sales Tell Us About the US Economy",https://www.bloomberg.com/news/articles/2025-08-14/cardboard-box-sales-fall-in-worrying-sign-for-us-retail,45584346
+18,"2025-10-14T20:23:48.000Z","JerryRigEverything: My Pixel 10 Pro Fold Exploded – Caught Live on Camera[video]",https://www.youtube.com/watch?v=8uS90jakOuw,45584344
+19,"2025-10-14T20:23:48.000Z","Signed Backdoor Hiding in Plain Sight on Framework Devices",https://eclypsium.com/blog/bombshell-the-signed-backdoor-hiding-in-plain-sight-on-framework-devices/,45584343
+20,"2025-10-14T20:22:48.000Z","Ask HN: How old is your data centre?",item?id=45584330,45584330
+21,"2025-10-14T20:20:48.000Z","A Plan to Rebuild Gaza Lists Nearly 30 Companies. Many Say They're Not Involved",https://www.wired.com/story/a-plan-to-rebuild-gaza-lists-nearly-30-companies-many-say-theyre-not-involved/,45584315
+22,"2025-10-14T20:19:48.000Z","Half of America's Voting Machines Are Now Owned by a MAGA Oligarch",https://dissentinbloom.substack.com/p/half-of-americas-voting-machines,45584295
+23,"2025-10-14T20:19:48.000Z","USA causes of death by age and gender",https://www.worldlifeexpectancy.com/usa-cause-of-death-by-age-and-gender,45584294
+24,"2025-10-14T20:18:48.000Z","Virtual education company was a lifeline to a rural district. Now they're at war",https://www.nbcnews.com/news/us-news/new-mexico-school-district-stride-k12-virtual-education-rcna222598,45584282
+25,"2025-10-14T20:18:48.000Z","Unpacking Cloudflare Workers CPU Performance Benchmarks",https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/,45584281
+26,"2025-10-14T20:16:48.000Z","Reducing Pipeline Bubbles with Adaptive Parallelism on Heterogeneous Models",https://arxiv.org/abs/2509.23722,45584261
+27,"2025-10-14T20:15:48.000Z","Crypto Became a Trump Trade – Paul Krugman",https://paulkrugman.substack.com/p/how-crypto-became-a-trump-trade,45584245
+28,"2025-10-14T20:14:48.000Z","The quality of AI code is low and the AIs themselves don't understand it",https://twitter.com/Jonathan_Blow/status/1977480106588410278,45584228
+29,"2025-10-14T20:14:48.000Z","AppLovin Nonconsensual Installs",https://www.benedelman.org/applovin-nonconsensual-installs/,45584226
+30,"2025-10-14T20:13:49.000Z","Going Broke Slowly: The Investment Implications of Still-Rising Federal Debt",https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/notes-on-the-week-ahead/going-broke-slowly-the-investment-implications-of-still-rising-federal-debt/,45584225
+31,"2025-10-14T20:07:49.000Z","My New Project:)",item?id=45584159,45584159
+32,"2025-10-14T20:06:49.000Z","Salesforce Says AI Customer Service Saves $100M Annually",https://www.bloomberg.com/news/articles/2025-10-14/salesforce-says-ai-customer-service-saves-100-million-annually,45584152
+33,"2025-10-14T20:03:49.000Z","Rest in Peace Mark Forster",http://markforster.squarespace.com/blog/2025/10/14/rest-in-peace-mark-forster.html,45584125
+34,"2025-10-14T20:03:49.000Z","Nook Browser – Browse. It's Yours. Open-Source, Private, Forever.",https://browsewithnook.com/,45584121
+35,"2025-10-14T20:00:49.000Z","Say the Quiet Part Out Loud",https://squirrelsquadron.substack.com/p/say-the-quiet-part-out-loud,45584099
+36,"2025-10-14T19:59:49.000Z","How Can You Plan a Decade in Advance?",https://squirrelsquadron.substack.com/p/how-on-earth-can-you-plan-a-decade,45584092
+37,"2025-10-14T19:59:49.000Z","Reducto Raises $108M to Shape the Future of AI Document Intelligence",https://reducto.ai/blog/reducto-series-b-funding,45584089
+38,"2025-10-14T19:56:49.000Z","Surveillance Empire That Tracked World Leaders, a Vatican Enemy, and Maybe You",https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/,45584052
+39,"2025-10-14T19:56:49.000Z","AI and Labor Markets: What We Know and Don't Know",https://digitaleconomy.stanford.edu/news/ai-and-labor-markets-what-we-know-and-dont-know/,45584048
+40,"2025-10-14T19:56:49.000Z","The New World: Joshua Kushner, Thrive Capital, and the American Dream",https://joincolossus.com/article/joshua-kushner-thrive-new-world/,45584046
+41,"2025-10-14T19:52:49.000Z","Show HN: Wispbit – Keep codebase standards alive",https://wispbit.com,45584017
+42,"2025-10-14T19:52:49.000Z","AI bots wrote and reviewed all papers at this conference",https://www.nature.com/articles/d41586-025-03363-3,45584015
+43,"2025-10-14T19:51:49.000Z","Why the open social web matters now",https://werd.io/why-the-open-social-web-matters-now/,45583999
+44,"2025-10-14T19:50:49.000Z","I built a tiny app that turns your MacBook keyboard into a satisfying typewriter",https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?mt=12,45583986
+45,"2025-10-14T19:46:49.000Z","Got opinions on observability? I could use your help",https://charity.wtf/2025/10/13/got-opinions-on-observability-i-could-use-your-help-once-more-with-feeling/,45583947
+46,"2025-10-14T19:46:49.000Z","The Origins of Efficiency",https://press.stripe.com/origins-of-efficiency,45583943
+47,"2025-10-14T19:46:49.000Z","Reducing Screen Time by 86%",https://blog.mattbearman.com/reducing-screen-time/,45583941
+48,"2025-10-14T19:45:49.000Z","Building a Datacenter (For Dummies) Part I",https://cruciblecapital.substack.com/p/building-a-datacenter-for-dummies,45583938
+49,"2025-10-14T19:45:49.000Z","The disparity between how high and low income earners feel about the economy",https://www.cnbc.com/2025/10/14/theres-a-shocking-disparity-between-how-high-income-and-low-income-earners-feel-about-the-economy.html,45583935
+50,"2025-10-14T19:43:49.000Z","OpenAI #15: More on OpenAI's Paranoid Lawfare Against Advocates of SB 53",https://thezvi.substack.com/p/openai-15-more-on-openais-paranoid,45583907
+51,"2025-10-14T19:43:49.000Z","I Love the 2025 Economics Nobel Laureates",https://arnoldkling.substack.com/p/on-the-2025-economics-nobel-laureates,45583900
+52,"2025-10-14T19:43:49.000Z","Choosing Friction",https://phirephoenix.com/blog/2025-10-11/friction,45583862
+53,"2025-10-14T19:43:49.000Z","Show HN: Link Management Platform for Affiliate Marketers and Content Creators",item?id=45583847,45583847
+54,"2025-10-14T19:43:49.000Z","Panther Lake's Reveal at ITT 2025 – By George Cozma",https://chipsandcheese.com/p/panther-lakes-reveal-at-itt-2025,45583841
+55,"2025-10-14T19:43:49.000Z","Putin Is Not Winning",https://www.theatlantic.com/international/archive/2025/10/overestimating-putin-russia-ukraine-war/684518/,45583835
+56,"2025-10-14T19:43:49.000Z","Create My Token",https://createmytoken.net,45583833
+57,"2025-10-14T19:43:49.000Z","NumPy-First AI: Persona-Aware Semantic Models Without GPUs",https://github.com/farukalpay/Semantic-Lexicon,45583820
+58,"2025-10-14T19:43:49.000Z","Mapping RNA-protein chats could uncover new treatments for cancer, brain disease",https://phys.org/news/2025-10-rna-protein-chats-uncover-treatments.html,45583813
+59,"2025-10-14T19:43:49.000Z","Who Said Neural Networks Aren't Linear?",https://arxiv.org/abs/2510.08570,45583812
+60,"2025-10-14T19:43:49.000Z","A modern way to go to market with content, trust and authority",item?id=45583802,45583802
+61,"2025-10-14T19:43:49.000Z","How to Turn Liquid Glass into a Solid Interface – TidBITS",https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/,45583787
+62,"2025-10-14T19:43:49.000Z","Your Data Model is Your Destiny",https://notes.mtb.xyz/p/your-data-model-is-your-destiny,45583786
+63,"2025-10-14T19:43:49.000Z","Better SRGB to Greyscale Conversion",https://30fps.net/pages/better-srgb-to-greyscale/,45583767
+64,"2025-10-14T19:43:49.000Z","A Nobel for thinking about long-term growth",https://www.noahpinion.blog/p/a-nobel-for-thinking-about-long-term,45583766
+65,"2025-10-14T19:43:49.000Z","CHIP8 and How Emulators Work",https://retrogamecoders.com/chip8-and-how-emulators-work/,45583762
+66,"2025-10-14T19:43:49.000Z","3D-printed device can pull drinking water out of thin air",https://www.popsci.com/technology/water-from-air-project/,45583758
+67,"2025-10-14T19:43:49.000Z","Soon You'll Be Able to Shop Walmart in ChatGPT. Here's Why It Matters",https://www.wsj.com/business/retail/chatgpt-walmart-shopping-3e411e83,45583750
+68,"2025-10-14T19:43:49.000Z","Nvidia's DGX Spark AI mini-PC goes up for sale October 15 – 1 petaFLOP",https://www.tomshardware.com/desktops/mini-pcs/nvidias-dgx-spark-ai-mini-pc-goes-up-for-sale-october-15-1-petaflop-developer-platform-was-originally-slated-for-may,45583746
+69,"2025-10-14T19:43:49.000Z","Classic Demo Effects, Fire",https://www.4rknova.com//blog/2019/03/17/fire-effect,45583742
+70,"2025-10-14T19:43:49.000Z","America Is Sliding Toward Illiteracy",https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/,45583730
+71,"2025-10-14T19:43:49.000Z","Show HN: I've built a prototype for a physical e-ink todo list with voice input",https://github.com/ilyaLibin/todoink,45583724
+72,"2025-10-14T19:43:49.000Z","Zawinski's Law Was Never About Email",https://danverbraganza.com/writings/reinterpreting-zawinskis-law,45583718
+73,"2025-10-14T19:43:49.000Z","Rumdl: A Markdown Linter Written in Rust",https://github.com/rvben/rumdl,45583705
+74,"2025-10-14T19:43:49.000Z","Guide: Setting up Nvidia DGX Spark with ggml",https://github.com/ggml-org/llama.cpp/discussions/16514,45583696
+75,"2025-10-14T19:43:49.000Z","In the ruins of a forgotten California desert utopia",https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/,45583688
+76,"2025-10-14T19:43:49.000Z","Show HN: An open source access logs analytics script to block bot attacks",https://github.com/tempesta-tech/webshield,45583667
+77,"2025-10-14T19:43:49.000Z","Sikorsky Converts Black Hawk into U-Hawk, a Battle-Ready Autonomous UAS",https://news.lockheedmartin.com/2025-10-13-Sikorsky-Converts-BLACK-HAWK-into-U-Hawk-A-Battle-Ready-Autonomous-UAS,45583660
+78,"2025-10-14T19:43:49.000Z","TokEstimator – Estimate LLM Inference Performance on Private Hardware",https://tokestimator.com,45583656
+79,"2025-10-14T19:43:49.000Z","Americans are losing millions to scammers at crypto ATMs",https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/,45583638
+80,"2025-10-14T19:43:49.000Z","Show HN: Just Enough Linux for Indie Hackers",https://franklinux.gumroad.com/l/nyvuya,45583637
+81,"2025-10-14T19:43:49.000Z","Rounding up",https://joshs.bearblog.dev/rounding-up/,45583588
+82,"2025-10-14T19:43:49.000Z","Systematically generating tests that would have caught Anthropic's top‑K bug",https://theorem.dev/blog/anthropic-bug-test/,45583583
+83,"2025-10-14T19:43:49.000Z","ReCAPTCHA migration to Google Cloud by the end of 2025: what do you need to do",https://privatecaptcha.com/blog/recaptcha-migration-to-google-cloud-2025/,45583575
+84,"2025-10-14T19:43:49.000Z","Preparing for AI's economic impact: exploring policy responses",https://www.anthropic.com/research/economic-policy-responses,45583574
+85,"2025-10-14T19:43:49.000Z","Ready for the Matrix Conference 2025",https://element.io/blog/ready-for-the-matrix-conference-2025/,45583573
+86,"2025-10-14T19:43:49.000Z","Show HN: dotfiles for your AI prompts",https://github.com/NishantJoshi00/pmx,45583572
+87,"2025-10-14T19:43:49.000Z","Coffee and Open Source Conversation – Brian Pontarelli",https://www.youtube.com/watch?v=GdqN9HIcQaE,45583552
+88,"2025-10-14T19:43:49.000Z","Just Talk to It – The No-Bs Way of Agentic Engineering",https://steipete.me/posts/just-talk-to-it,45583546
+89,"2025-10-14T19:43:49.000Z","The height at which a hill becomes a mountain, according to data",https://www.washingtonpost.com/business/2025/10/13/real-height-which-hill-becomes-mountain-according-data/,45583536
+90,"2025-10-14T19:43:49.000Z","Mark Twain Wrote the First Book Ever Written with a Typewriter",https://www.openculture.com/2025/10/mark-twain-wrote-the-first-book-ever-written-with-a-typewriter.html,45583524
+91,"2025-10-14T19:43:49.000Z","EU biometric border system launch hits inevitable teething problems",https://www.theregister.com/2025/10/14/eu_biometric_border_system_launches/,45583511
+92,"2025-10-14T19:43:49.000Z","Captcha Welcome Mat",https://captchawelcomemat.com,45583508
+93,"2025-10-14T19:43:49.000Z","Reverse engineering software: a safe harbour in EU but not safe in the US (2019)",https://www.nixonpeabody.com/-/media/Files/PDF-Others/reverse-engineering-of-software-a-safe-harbour-in-Europe-but-not-in-the-US.ashx,45583500
+94,"2025-10-14T19:43:49.000Z","Zorin OS 18 eyes your Windows 10 PC as Microsoft pulls the plug",https://www.neowin.net/news/zorin-os-18-eyes-your-windows-10-pc-as-microsoft-pulls-the-plug/,45583478
+95,"2025-10-14T19:43:49.000Z","Declarative Agentic Framework",https://not7.ai/,45583472
+96,"2025-10-14T19:43:49.000Z","FCFZ: Compatible Flipper Zero",https://www.hackster.io/zst123/fcfz-fully-compatible-flipper-zero-e686ba,45583435
+97,"2025-10-14T19:43:49.000Z","YouTube's creator economy is about to collapse (AI replacement fact not theory)",https://old.reddit.com/r/content_marketing/comments/1o5jzcs/youtubes_entire_creator_economy_is_about_to/,45583407
+98,"2025-10-14T19:43:49.000Z","Show HN: Lockbridge – Encrypted File Transfers",item?id=45583406,45583406
+99,"2025-10-14T19:43:49.000Z","Show HN: OneUptime – Open-Source Incident.io",https://github.com/OneUptime/oneuptime,45583403
